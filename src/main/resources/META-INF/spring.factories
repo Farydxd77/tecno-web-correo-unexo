@@ -1,0 +1,1 @@
+org.springframework.context.ApplicationListener=com.corre_email.unexo.config.ArranqueSinBaseDeDatos
